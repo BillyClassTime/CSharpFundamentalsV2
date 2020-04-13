@@ -1,14 +1,11 @@
 ﻿using System;
 //Using NuGet Package https://www.nuget.org/packages/System.CommandLine.DragonFruit
 //Using Nuget Package https://www.nuget.org/packages/System.CommandLine
-using System.CommandLine;
-using System.CommandLine.Invocation;
 #pragma warning disable 1591
-//#pragma warning disable 8509
-// dotnet -- Exer1
-// dotnet -- Exer2
+// dotnet --idex Exer1
+// dotnet --idex Exer2
 // ..
-// dotnet -- ExerN
+// dotnet --idex ExerN
 namespace src
 {
     class Program1
