@@ -17,13 +17,13 @@ Interactive Console App with more than 200 exercises basics, intermediate and ad
 Todos los anteriores se encuentran en diferentes ficheros agrupados en sendas clases desde básicas, intermedias y avanzadas.
 Para ejecutarlos se realiza una llamada por linea de comandos con parametros que indican en ejercicio a ejecutar asi
 
-```src --idex Exer1 (Para el ejercicio 1)
-```
-```src --idex Exer2 (Para el ejercicio 2)
-```
-```.
-```
-```.
-```
-```src --idex ExerN (Para el ejercicio N)
-```
+``src --idex Exer1 (Para el ejercicio 1)
+``
+``src --idex Exer2 (Para el ejercicio 2)
+``
+``.
+``
+``.
+``
+``src --idex ExerN (Para el ejercicio N)
+``
