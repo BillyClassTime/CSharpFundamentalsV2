@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>src</name>
+    </assembly>
+    <members>
+        <member name="T:src.Exercise19">
+            19. Escriba un programa C # para calcular la suma de dos enteros dados, si dos valores son iguales, devuelva el triple de su suma.
+        </member>
+        <member name="M:src.Program1.Main(System.String)">
+            <param name="idex">Id of Exercise to run up!</param>
+        </member>
+    </members>
+</doc>

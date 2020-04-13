@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Msm+9eks3kwfg/yNURdWK0YnnDsAyCb9bFsjBnucFzObq6UpLjspx3Xe6zwFvBcKC5Jotz3H8ZTvm5BcIHqHA==",
+  "success": true,
+  "projectFilePath": "D:\\CTL\\Exercises\\CSharpExercises\\src\\src.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Billy Vanegas\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\Billy Vanegas\\.nuget\\packages\\system.commandline\\2.0.0-beta1.20158.1\\system.commandline.2.0.0-beta1.20158.1.nupkg.sha512",
+    "C:\\Users\\Billy Vanegas\\.nuget\\packages\\system.commandline.dragonfruit\\0.3.0-alpha.20158.1\\system.commandline.dragonfruit.0.3.0-alpha.20158.1.nupkg.sha512",
+    "C:\\Users\\Billy Vanegas\\.nuget\\packages\\system.commandline.rendering\\0.3.0-alpha.20158.1\\system.commandline.rendering.0.3.0-alpha.20158.1.nupkg.sha512",
+    "C:\\Users\\Billy Vanegas\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
