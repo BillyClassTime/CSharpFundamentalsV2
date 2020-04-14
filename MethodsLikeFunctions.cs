@@ -316,7 +316,7 @@ public class funcion12
                 return Fib(n1 - 1) + Fib(n1 - 2);
         }
 
-        public static void Main()
+        public static void Main12()
         {
             int num;
 

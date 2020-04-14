@@ -33,7 +33,7 @@ src --idex Exer2 (Para el ejercicio 2)
 .
 ~~~
 ~~~
-src --idsrc --idex ExerN (Para el ejercicio N)
+src --idex ExerN (Para el ejercicio N)
 ~~~
 
 

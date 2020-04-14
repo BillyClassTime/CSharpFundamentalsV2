@@ -24,6 +24,7 @@ namespace src
                 "Exer7" => new Basics().Main7(),
                 "Exer8" => new Basics().Main8(),
                 "Exer9" => new Basics().Main9(),
+                "ExerColl6" => new ExerColl6().MainColl6(),
                 null => RunAll(),
                 _ => MissingTag(idex),
             };
