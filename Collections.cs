@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 #pragma warning disable 1591
-namespace srdoc
+namespace src
 {
     public class Exercise29
     {
